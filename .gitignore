@@ -1,0 +1,22 @@
+# Visual Studio файлы
+*.vcxproj.user
+
+# Папки для сборки
+Debug/
+Release/
+x64/
+x86/
+
+# Локальные данные пользователя
+*.user
+*.ipch
+*.log
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+
+# Кэш и временные файлы
+*.opendb
+*.VC.opendb
